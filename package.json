@@ -1,0 +1,24 @@
+{
+  "name": "myc1609b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaochong0521/cangku.git"
+  },
+  "keywords": [
+    "execirese",
+    "node",
+    "moudle"
+  ],
+  "author": "xiaochong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaochong0521/cangku/issues"
+  },
+  "homepage": "https://github.com/xiaochong0521/cangku#readme"
+}
